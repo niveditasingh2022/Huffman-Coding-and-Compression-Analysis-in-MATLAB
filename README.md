@@ -48,5 +48,5 @@ This MATLAB project **simulates binary Huffman coding**, optimizes probabilities
 1. **Open MATLAB.**
 2. **Run the script** by executing:
    ```matlab
-   Nivi1
+   main.m
 
